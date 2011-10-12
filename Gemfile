@@ -3,7 +3,6 @@ source 'http://rubygems.org'
 
 gem 'pg'
 gem 'rails', '3.1.1'
-gem 'execjs'
 
 #this is a change...
 

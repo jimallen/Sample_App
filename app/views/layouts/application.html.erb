@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Welcome to the <%= @title%> page</title>
-  
-
-  <%= javascript_include_tag "application" %>
+  <title><%= @title%></title>
   <%= csrf_meta_tags %>
-<%= stylesheet_link_tag    "blueprint/screen", :media => 'screen' %>
-  <%= stylesheet_link_tag    "blueprint/print", :media => 'print' %>
+  
+	<%= render 'layouts/stylesheets'%>
 </head>
 <body>
-<%= @title%>
-<%= yield %>
+	<div class="container">
+		<%= render 'layouts/header'%>
+				
+	<section class="round">
+		<%= yield %>
+	</section>
+	
+		<%= render 'layouts/footer'%>
+</div>
 
 </body>
 </html>

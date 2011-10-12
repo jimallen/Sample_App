@@ -11,7 +11,7 @@ render_views
     
     it "should have the right title" do
     get 'home'
-    response.should have_selector("title", :content => "Welcome to the Home page")
+    response.should have_selector("title", :content => "Home")
     
     end
   end

@@ -5,7 +5,6 @@ gem 'pg'
 gem 'rails', '3.1.1'
 
 #this is a change..
-gem 'therubyracer-heroku'
 
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'

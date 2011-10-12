@@ -14,7 +14,7 @@ gem 'sqlite3', '1.3.4', :require => 'sqlite3'
 gem 'json'
 
 group :production do
-  gem 'therubyracer-heroku', '0.8.1.pre3'
+  gem 'therubyracer-heroku'
 end
 
 # Gems used only for assets and not required

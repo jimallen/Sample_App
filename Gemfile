@@ -4,7 +4,8 @@ source 'http://rubygems.org'
 gem 'pg'
 gem 'rails', '3.1.1'
 
-#this is a change...
+#this is a change..
+gem 'therubyracer'
 
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
@@ -12,8 +13,6 @@ gem 'rails', '3.1.1'
 gem 'sqlite3', '1.3.4', :require => 'sqlite3'
 
 gem 'json'
-
-
 
 # Gems used only for assets and not required
 # in production environments by default.

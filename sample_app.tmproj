@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>spec/controllers/pages_controller_spec.rb</string>
+	<string>Gemfile</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -21,19 +21,89 @@
 	<integer>243</integer>
 	<key>metaData</key>
 	<dict>
+		<key>Gemfile</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>7</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>Rakefile</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>app/assets/javascripts/application.js</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>16</integer>
+				<key>line</key>
+				<integer>8</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>app/assets/javascripts/pages.js.coffee</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>app/assets/stylesheets/application.css</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>app/assets/stylesheets/custom.css</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>12</integer>
+				<integer>10</integer>
 				<key>line</key>
-				<integer>49</integer>
+				<integer>41</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>19</integer>
+			<integer>23</integer>
 		</dict>
 		<key>app/controllers/application_controller.rb</key>
 		<dict>
@@ -71,34 +141,6 @@
 				<integer>38</integer>
 				<key>line</key>
 				<integer>4</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>app/views/layouts/_header.html.erb</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>10</integer>
-				<key>line</key>
-				<integer>9</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>app/views/layouts/_stylesheets.html.erb</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>33</integer>
-				<key>line</key>
-				<integer>12</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -175,6 +217,34 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>config.ru</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>config/application.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>40</integer>
+				<key>line</key>
+				<integer>12</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>config/routes.rb</key>
 		<dict>
 			<key>caret</key>
@@ -224,20 +294,22 @@
 		<string>app/views/pages/contact.html.erb</string>
 		<string>config/routes.rb</string>
 		<string>app/views/pages/home.html.erb</string>
-		<string>app/views/layouts/_stylesheets.html.erb</string>
-		<string>app/views/layouts/_header.html.erb</string>
-		<string>app/views/layouts/_footer.html.erb</string>
-		<string>app/assets/stylesheets/custom.css</string>
 		<string>app/views/layouts/application.html.erb</string>
-		<string>spec/requests/layout_links_spec.rb</string>
 		<string>app/views/pages/about.html.erb</string>
-		<string>app/views/pages/help.html.erb</string>
 		<string>spec/controllers/pages_controller_spec.rb</string>
+		<string>Gemfile</string>
+		<string>Rakefile</string>
+		<string>app/assets/stylesheets/custom.css</string>
+		<string>app/assets/javascripts/application.js</string>
+		<string>app/assets/stylesheets/application.css</string>
+		<string>config/application.rb</string>
+		<string>app/assets/javascripts/pages.js.coffee</string>
+		<string>config.ru</string>
 		<string>app/controllers/application_controller.rb</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{56, 0}, {1190, 878}}</string>
+	<string>{{10, 0}, {1144, 878}}</string>
 </dict>
 </plist>

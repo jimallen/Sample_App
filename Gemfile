@@ -3,6 +3,7 @@ source 'http://rubygems.org'
 
 gem 'pg'
 gem 'rails', '3.1.1'
+gem 'gravatar_image_tag'
 
 #this is a change..
 
@@ -34,6 +35,7 @@ group :test do
 	gem 'rspec'
 	gem 'webrat', '0.7.1'
 	gem 'spork'
+	gem 'factory_girl_rails'
 end
 	
 

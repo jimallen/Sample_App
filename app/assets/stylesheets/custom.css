@@ -48,6 +48,8 @@ nav ul li a{
 
 footer nav {
 	float:none;
+	background: #fff;
+	margin-top: 1em;
 }
 
 a.signup_button{

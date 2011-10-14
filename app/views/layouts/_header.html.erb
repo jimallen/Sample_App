@@ -1,11 +1,19 @@
-	<header>
-		<% logo = image_tag("logo.png", :alt => "Sample App", :class => "round")%>
-		<%= link_to logo, root_path%>
-		<nav class = "round">
-			<ul>
+
+	
+	<div class="topbar">
+	      <div class="fill">
+	        <div class="container">
+	          <a class="brand" href="#">Sample App</a>
+	         <ul class="nav">
 				<li><%= link_to "Home", root_path  %></li>
 				<li><%= link_to "Help", help_path  %></li>
 				<li><%= link_to "Sign In", "#"  %></li>
 			</ul>
-		</nav>
-	</header>
+	          <form action="" class="pull-right">
+	            <input class="input-small" type="text" placeholder="Username">
+	            <input class="input-small" type="password" placeholder="Password">
+	            <button class="btn" type="submit">Sign in</button>
+	          </form>
+	        </div>
+	      </div>
+	    </div>

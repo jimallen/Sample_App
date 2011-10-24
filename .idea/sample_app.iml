@@ -53,7 +53,6 @@
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.3.0, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.5.0, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-rails (v2.6.1, RVM: ruby-1.9.2-p290) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v2.6.4, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.30, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-cache (v1.1, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-ssl (v1.3.2, RVM: ruby-1.9.2-p290) [gem]" level="application" />

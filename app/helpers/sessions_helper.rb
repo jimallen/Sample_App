@@ -31,7 +31,6 @@ module SessionsHelper
     clear_return_to
   end
 
-
   def signed_in?
     !current_user.nil?
   end

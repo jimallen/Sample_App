@@ -27,6 +27,7 @@ group :development do
   gem 'rspec-rails'
   gem 'annotate', :git => 'git://github.com/ctran/annotate_models.git'
   gem 'sqlite3', '1.3.4', :require => 'sqlite3'
+  
 
 end
 

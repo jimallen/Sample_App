@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4cd10ae-f032-4be7-a48e-273bdad290c6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/factories.rb" afterPath="$PROJECT_DIR$/spec/factories.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/requests/friendly_forwardings_spec.rb" afterPath="$PROJECT_DIR$/spec/requests/friendly_forwardings_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webrat.log" afterPath="$PROJECT_DIR$/webrat.log" />
-    </list>
+    <list default="true" id="e4cd10ae-f032-4be7-a48e-273bdad290c6" name="Default" comment="" />
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -101,9 +94,7 @@
         <entry file="file://$PROJECT_DIR$/spec/requests/friendly_forwardings_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="16" selection-start="192" selection-end="192" vertical-scroll-proportion="0.26778242">
-              <folding>
-                <marker date="1319517768000" expanded="true" signature="197:262" placeholder="#..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1148,7 +1139,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1400" height="878" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32951653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1322,9 +1313,7 @@
     <entry file="file://$PROJECT_DIR$/spec/requests/friendly_forwardings_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="16" selection-start="192" selection-end="192" vertical-scroll-proportion="0.26778242">
-          <folding>
-            <marker date="1319517768000" expanded="true" signature="197:262" placeholder="#..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>

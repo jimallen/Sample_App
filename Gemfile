@@ -3,6 +3,7 @@ source 'http://rubygems.org'
 gem 'pg'
 gem 'rails', '3.1.1'
 gem 'gravatar_image_tag'
+gem 'will_paginate', '3.0.pre2'
 
 #this is a change..
 
@@ -27,7 +28,7 @@ group :development do
   gem 'rspec-rails'
   gem 'annotate', :git => 'git://github.com/ctran/annotate_models.git'
   gem 'sqlite3', '1.3.4', :require => 'sqlite3'
-  
+  gem 'faker', '0.3.1'
 
 end
 

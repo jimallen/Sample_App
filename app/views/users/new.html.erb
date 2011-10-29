@@ -1,25 +1,8 @@
-<div id="error_explanation">...</div>
+<div id="error_explanation"></div>
 
 <%= form_for(@user) do |f| %>
-
-    <%= render 'shared/error_messages', :object => f.object %>
-    <div class="field">
-      <%= f.label :name, {:class => "formLabel"} %>
-      <%= f.text_field :name %>
-    </div>
-    <div class="field">
-      <%= f.label :email, {:class => "formLabel"} %>
-      <%= f.text_field :email %>
-    </div>
-    <div class="field">
-      <%= f.label :password, {:class => "formLabel"} %>
-      <%= f.password_field :password %>
-    </div>
-    <div class="field">
-      <%= f.label :password_confirmation, "Confirmation", {:class => "formLabel"} %>
-      <%= f.password_field :password_confirmation %>
-    </div>
-    <div class="actions">
-      <%= f.submit "Sign up", {:class => "btn success large"} %>
-    </div>
+  <%= render 'fields', :f => f %>
+  <div class="actions">
+    <%= f.submit "Sign up" %>
+  </div>
 <% end %>

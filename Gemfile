@@ -4,6 +4,7 @@ gem 'pg'
 gem 'rails', '3.1.1'
 gem 'gravatar_image_tag'
 gem 'will_paginate', '3.0.pre2'
+gem 'therubyracer'
 
 #this is a change..
 
